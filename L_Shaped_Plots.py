@@ -1,3 +1,6 @@
+# https://codingcompetitions.withgoogle.com/kickstart/round/0000000000436140/000000000068c509
+# https://www.youtube.com/watch?v=0lNdd_myTEc&t=1081s
+
 def get_ans(hor,vert):
     if hor==1 or vert==1:
         return 0
