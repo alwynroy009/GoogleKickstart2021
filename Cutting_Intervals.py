@@ -1,4 +1,5 @@
 # explanation : https://youtu.be/e3u3TH2xTEo
+# problem statement : https://codingcompetitions.withgoogle.com/kickstart/round/00000000004361e3/000000000082b933
 
 for test in range(1,int(input())+1):
     n, c = map(int, input().split())
