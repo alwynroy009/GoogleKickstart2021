@@ -1,3 +1,6 @@
+# problem statement : https://codingcompetitions.withgoogle.com/kickstart/round/0000000000436140/000000000068cca3
+# Explanation : https://youtu.be/aL-G7T0v3hk
+
 t = int(input())
 tc = 0  # test case
 while t > 0:
