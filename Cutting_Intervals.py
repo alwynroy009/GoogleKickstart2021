@@ -1,3 +1,5 @@
+# explanation : https://youtu.be/e3u3TH2xTEo
+
 for test in range(1,int(input())+1):
     n, c = map(int, input().split())
     a = [tuple(map(int, input().split())) for _ in range(n)]
