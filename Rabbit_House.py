@@ -1,3 +1,8 @@
+# Problem Statement : https://codingcompetitions.withgoogle.com/kickstart/round/0000000000436140/000000000068cb14
+# Explanation : https://youtu.be/FwmNO-QU4KA
+# Code explanation : https://www.youtube.com/watch?v=Md15heou9co
+
+
 import heapq
 
 def add_task(co_ord, value):
